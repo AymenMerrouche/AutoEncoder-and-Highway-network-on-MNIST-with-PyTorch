@@ -18,7 +18,7 @@ Dim =  40           |  Dim = 80
 Loss and Accuracy for different numbers of HighWay layers :
 L = 9           |  L = 19
 :-------------------------:|:-------------------------:
-![Epoch 1](./figures/l=9.png)  |  ![Epoch 10](./figures/l=9.png)
+![Epoch 1](./figures/l=9.png)  |  ![Epoch 10](./figures/l=19.png)
 
 
 
